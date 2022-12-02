@@ -1,5 +1,5 @@
 # jmardyla.github.io
 
-- jeden
-- dwa
-- siedemdziesiąt
+- Studing at AGH UST
+- Computer Science
+- Cracow, PL
