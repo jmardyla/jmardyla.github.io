@@ -1,5 +1,5 @@
 # jmardyla.github.io
 
-```python
-print('siema')
-```
+- jeden
+- dwa
+- siedemdziesiąt
